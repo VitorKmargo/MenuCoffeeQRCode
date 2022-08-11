@@ -10,8 +10,7 @@ body {
 body {
    background-color: /*#e9e5d6;*/#fce4c6;
    font-family: 'roboto', sans-serif;
-   backdrop-filter: blur(1px);
-   -webkit-backdrop-filter: blur(1px);
+   /*backdrop-filter: blur(1px);*/
 }
 
 
