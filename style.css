@@ -5,7 +5,7 @@
 body {
     background-image: url(./IMG/coffee.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 body {
    background-color: /*#e9e5d6;*/#fce4c6;
